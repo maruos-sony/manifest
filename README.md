@@ -8,7 +8,7 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository using the Maru OS trees, use a command like this:
 
-    repo init -u git://github.com/maruos-sony/manifest.git -b sony-6.0
+    repo init -u https://github.com/maruos-sony/manifest.git -b sony-6.0
 
 Then to sync up:
 
